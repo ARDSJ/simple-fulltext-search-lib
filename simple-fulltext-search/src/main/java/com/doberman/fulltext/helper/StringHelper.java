@@ -1,4 +1,4 @@
-package com.m4u.fulltext.helper;
+package com.doberman.fulltext.helper;
 
 import android.text.TextUtils;
 

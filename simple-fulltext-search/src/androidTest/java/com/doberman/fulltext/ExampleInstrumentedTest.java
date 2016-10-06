@@ -1,4 +1,4 @@
-package com.m4u.fulltext;
+package com.doberman.fulltext;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.m4u.fulltext_search.test", appContext.getPackageName());
+        assertEquals("com.doberman.fulltext_search.test", appContext.getPackageName());
     }
 }

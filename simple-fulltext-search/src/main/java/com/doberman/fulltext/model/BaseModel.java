@@ -1,10 +1,10 @@
-package com.m4u.fulltext.model;
+package com.doberman.fulltext.model;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.m4u.fulltext.helper.StringHelper;
+import com.doberman.fulltext.helper.StringHelper;
 
 public abstract class BaseModel extends SQLiteOpenHelper {
 

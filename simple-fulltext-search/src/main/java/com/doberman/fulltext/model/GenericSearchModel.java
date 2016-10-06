@@ -1,4 +1,4 @@
-package com.m4u.fulltext.model;
+package com.doberman.fulltext.model;
 
 import android.content.ContentValues;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.m4u.fulltext;
+package com.doberman.fulltext;
 
 import org.junit.Test;
 

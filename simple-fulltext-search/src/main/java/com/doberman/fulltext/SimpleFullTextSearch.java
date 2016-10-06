@@ -1,9 +1,9 @@
-package com.m4u.fulltext;
+package com.doberman.fulltext;
 
 import android.content.ContentValues;
 import android.content.Context;
 
-import com.m4u.fulltext.model.GenericSearchModel;
+import com.doberman.fulltext.model.GenericSearchModel;
 
 import java.util.HashMap;
 import java.util.List;
